@@ -6,7 +6,7 @@ This is the C++ implementation of an advanced algorithm's class assignment from 
 
 It is a version of the vehicle problem in heuristic search or AI that uses A\* to find the optimal sequence of movements of a vehicle over a map with passengers to transport them to their destinations and then come back to the initial station, minimizing the total cost.
 
-If you want to know more about this thing, send me an [email](jairomer@protonmail.com). 
+If you want to know more about this thing, send me a message. 
 
 ## Compilation
 
