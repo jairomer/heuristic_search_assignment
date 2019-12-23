@@ -58,4 +58,5 @@ chmod +x testing_script.sh
 ## What I learned 
 - Notions about the A\* heuristic search algorithm and artificial intelligence. 
 - Experience with C++17 features and object oriented development. 
-- You cannot solve an exponential problem by the linear increment of computing resources. 
+- You cannot solve an exponential problem by the linear increment of computing resources.
+- Notions about test based development. 
