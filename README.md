@@ -2,11 +2,11 @@
 
 ### WTF is this. 
 
-This is the C++ implementation of an advanced algorithm's class assignment from school. 
+This is the C++ implementation of an advanced algorithm's class assignment from university. 
 
-It is a version of the vehicle problem in heuristic search or AI that uses A\* to find the optimal sequence of movements of a vehicle over a map with passengers to transport them to their destinations.
+It is a version of the vehicle problem in heuristic search or AI that uses A\* to find the optimal sequence of movements of a vehicle over a map with passengers to transport them to their destinations and then come back to the initial station, minimizing the total cost.
 
-If you want to know more about this thing, send me an email. 
+If you want to know more about this thing, send me an [email](jairomer@protonmail.com). 
 
 ## Compilation
 
@@ -31,7 +31,7 @@ Once built, to execute it we have provided several options:
 chmod +x bus-routing
 ./bus-routing <param.probl> [<heuristic>]
 ```
-Checkout the project report to learn about available heuristics. 
+Read the included report to learn about the heuristics. 
 
 **Systematic Approach: Test every case, with every possible heuristic combination.**
 This will systematically execute the implementation with all available examples, and with all available heuristics. 
