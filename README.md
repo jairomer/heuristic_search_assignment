@@ -12,7 +12,7 @@ If you want to know more about this thing, send me a message.
 
 This is a C++ project deployed using CMake. 
 
-To install CMake follow the instructions at [cmake,org](https://cmake.org).
+To install CMake follow the instructions at [cmake.org](https://cmake.org).
 
 Once CMake is installed and configured in your system, execute: 
 
